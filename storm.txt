@@ -1,0 +1,6 @@
+create a sequence function that starts the game
+create a playsound function that plays the sound
+setTimeOut function that times out the sequence of the game
+game pattern array
+userClickedPatter array
+randomColor arrayuserChosenColor array
